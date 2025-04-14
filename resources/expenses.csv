@@ -1,0 +1,26 @@
+id,amount,category,description,date,payment_method,is_recurring
+1,-706.99,Utilities,Utilities expense,2025-03-18,PayPal,True
+2,-151.43,Freelance,Freelance expense,2025-02-28,Card,True
+3,504.66,Rent,Rent income,2025-03-11,Card,False
+4,-394.9,Dining Out,Dining Out expense,2025-04-03,Bank Transfer,True
+5,-645.98,Groceries,Groceries expense,2025-03-31,Card,True
+6,94.07,Transport,Transport income,2025-04-11,PayPal,True
+7,578.35,Investments,Investments income,2025-02-13,PayPal,False
+8,1210.9,Gym,Gym income,2025-02-04,Card,False
+9,569.12,Groceries,Groceries income,2025-03-18,PayPal,False
+10,543.32,Freelance,Freelance income,2025-02-02,Card,False
+11,-424.0,Dining Out,Dining Out expense,2025-03-29,Cash,False
+12,-355.89,Investments,Investments expense,2025-01-29,Cash,True
+13,-377.09,Investments,Investments expense,2025-03-24,PayPal,False
+14,312.04,Gym,Gym income,2025-02-04,Cash,True
+15,-74.35,Rent,Rent expense,2025-02-04,Cash,True
+16,29.86,Utilities,Utilities income,2025-03-03,PayPal,False
+17,-506.37,Transport,Transport expense,2025-04-08,Bank Transfer,True
+18,-24.08,Entertainment,Entertainment expense,2025-03-12,PayPal,False
+19,-842.6,Transport,Transport expense,2025-02-08,PayPal,False
+20,-1400.3,Investments,Investments expense,2025-02-22,Bank Transfer,False
+21,406.96,Salary,Salary income,2025-02-15,Card,True
+22,270.18,Groceries,Groceries income,2025-01-15,Bank Transfer,True
+23,1024.95,Freelance,Freelance income,2025-03-20,Cash,False
+24,604.64,Dining Out,Dining Out income,2025-01-30,Bank Transfer,False
+25,1184.9,Rent,Rent income,2025-03-03,PayPal,True

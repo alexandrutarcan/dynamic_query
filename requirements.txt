@@ -2,3 +2,7 @@ fastapi
 sqlalchemy
 openai
 uvicorn
+python-dotenv
+psycopg2
+pandas
+pydantic
